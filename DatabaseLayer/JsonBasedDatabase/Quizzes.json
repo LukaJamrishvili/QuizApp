@@ -1,0 +1,209 @@
+[
+  {
+    "Id": 1,
+    "OwnerId": 1,
+    "QuizTitle": "World Geography Trivia",
+    "QuizRecord": {
+      "QuizId": 0,
+      "UserId": 0,
+      "Username": "None",
+      "Score": 0,
+      "LowestTime": 120000
+    },
+    "Questions": [
+      {
+        "QuizId": 0,
+        "Question": "Which is the largest continent on Earth by land area?",
+        "Answers": [
+          "Africa",
+          "Asia",
+          "North America",
+          "Europe"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "Which country has the longest coastline in the world?",
+        "Answers": [
+          "Australia",
+          "Canada",
+          "Russia",
+          "United States"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "What is the smallest country in the world by area?",
+        "Answers": [
+          "Vatican City",
+          "Monaco",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "QuizId": 0,
+        "Question": "Which river is the longest in the world?",
+        "Answers": [
+          "Amazon River",
+          "Nile River",
+          "Yangtze River",
+          "Mississippi River"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "What desert is the largest hot desert in the world?",
+        "Answers": [
+          "Sahara Desert",
+          "Gobi Desert",
+          "Kalahari Desert",
+          "Mojave Desert"
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "OwnerId": 2,
+    "QuizTitle": "Simplest Programming Concepts",
+    "QuizRecord": {
+      "QuizId": 0,
+      "UserId": 0,
+      "Username": "None",
+      "Score": 0,
+      "LowestTime": 120000
+    },
+    "Questions": [
+      {
+        "QuizId": 0,
+        "Question": "What is the purpose of a variable in programming?",
+        "Answers": [
+          "To store data",
+          "to perform calculations",
+          "to create user interfaces",
+          "to display information"
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "QuizId": 0,
+        "Question": "Which of the following is a common data type in most programming languages?",
+        "Answers": [
+          "Number",
+          "Boolean",
+          "Function",
+          "Array"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "What is the correct way to write a comment in C#?",
+        "Answers": [
+          "# This is a comment",
+          "// This is a comment",
+          "/* This is a comment */",
+          "\u003C!-- This is a comment --\u003E"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "Which of these is an example of a loop in programming?",
+        "Answers": [
+          "if",
+          "switch",
+          "for",
+          "break"
+        ],
+        "CorrectAnswer": 3
+      },
+      {
+        "QuizId": 0,
+        "Question": "What does an if statement do?",
+        "Answers": [
+          "Repeats code multiple times",
+          "Executes a block of code if a condition is true",
+          "Defines a function",
+          "Stops a program from running"
+        ],
+        "CorrectAnswer": 2
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "OwnerId": 3,
+    "QuizTitle": "Famous Historical Events",
+    "QuizRecord": {
+      "QuizId": 0,
+      "UserId": 0,
+      "Username": "None",
+      "Score": 0,
+      "LowestTime": 120000
+    },
+    "Questions": [
+      {
+        "QuizId": 0,
+        "Question": "In which year did the Titanic sink?",
+        "Answers": [
+          "1910",
+          "1912",
+          "1915",
+          "1920"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "Who was the first President of the United States?",
+        "Answers": [
+          "Thomas Jefferson",
+          "Abraham Lincoln",
+          "George Washington",
+          "John Adams"
+        ],
+        "CorrectAnswer": 3
+      },
+      {
+        "QuizId": 0,
+        "Question": "What event marked the start of World War I?",
+        "Answers": [
+          "The assassination of Archduke Franz Ferdinand",
+          "The invasion of Poland",
+          "The bombing of Pearl Harbor",
+          "The signing of the Treaty of Versailles"
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "QuizId": 0,
+        "Question": "Which empire was famously ruled by Julius Caesar?",
+        "Answers": [
+          "The Greek Empire",
+          "The Roman Empire",
+          "The Ottoman Empire",
+          "The British Empire"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "QuizId": 0,
+        "Question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+        "Answers": [
+          "The Mayflower",
+          "The Santa Maria",
+          "The HMS Victory",
+          "The Endeavour"
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  }
+]
